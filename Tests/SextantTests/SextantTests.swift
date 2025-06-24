@@ -152,3 +152,4 @@ final class PolygonTests: XCTestCase {
         XCTAssertFalse(Polygon([Coordinate(latitude: 0, longitude: 0)]).contains(Coordinate(latitude: 0, longitude: 0)))
     }
 }
+
