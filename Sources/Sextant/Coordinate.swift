@@ -98,3 +98,4 @@ public struct Polygon: Sendable {
             && p.longitude >= min(a.longitude, b.longitude) && p.longitude <= max(a.longitude, b.longitude)
     }
 }
+
