@@ -93,3 +93,4 @@ geohash   r3gx2f7   (the cell to the north is r3gx2fe)
 ## Licence
 
 MIT.
+
