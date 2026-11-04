@@ -11,4 +11,3 @@ let package = Package(
         .testTarget(name: "SextantTests", dependencies: ["Sextant"])
     ]
 )
-
